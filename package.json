@@ -1,0 +1,16 @@
+{
+  "name": "@baaz/drivers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0"
+  }
+}
