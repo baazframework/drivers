@@ -1,5 +1,5 @@
 {
-  "name": "@buikit/drivers",
+  "name": "buikit-drivers",
   "version": "1.0.0",
   "description": "baaz framework (drivers)",
   "main": "index.js",
