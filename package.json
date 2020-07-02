@@ -1,6 +1,6 @@
 {
   "name": "buikit-drivers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "baaz framework (drivers)",
   "main": "index.js",
   "scripts": {
