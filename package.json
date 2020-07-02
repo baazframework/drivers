@@ -1,16 +1,30 @@
 {
-  "name": "@baaz/drivers",
+  "name": "@buikit/drivers",
   "version": "1.0.0",
-  "description": "",
+  "description": "baaz framework (drivers)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "baaz framework",
   "license": "ISC",
   "dependencies": {
     "prop-types": "^15.7.2",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baazframework/drivers.git"
+  },
+  "keywords": [
+    "pwa",
+    "react",
+    "webpack",
+    "drivers"
+  ],
+  "bugs": {
+    "url": "https://github.com/baazframework/drivers/issues"
+  },
+  "homepage": "https://github.com/baazframework/drivers#readme"
 }
